@@ -6,6 +6,6 @@
 
 网站：[iOS走马观花](http://ios.b2mp.cn)
 
-微博：[@往何处寻](weibo.com/helou)
+微博：[@往何处寻](http://weibo.com/helou)
 
 
